@@ -6,19 +6,18 @@
     <title>The Cheat to Beat Defeat</title>
     <style>
         body {
-            font-family: 'Times New Roman', Times, serif;
-            font-size: 12px;
+            font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
             line-height: 1.6;
             background-color: #f4f4f4;
             color: #333;
-            text-align: center;
         }
         header {
             background: linear-gradient(to right, #333, #555);
             color: #fff;
             padding: 2rem 0;
+            text-align: center;
         }
         header h1 {
             margin: 0;
@@ -52,7 +51,6 @@
             background-color: #fff;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
             overflow: hidden;
-            text-align: center;
         }
         section h2 {
             margin: 0;
@@ -93,7 +91,7 @@
     <div class="container">
         <section id="arithmetic-reasoning">
             <h2>Arithmetic Reasoning (AR)</h2>
-            <img src="https://www.pexels.com/photo/military-training-1234567/" alt="Military Arithmetic">
+            <img src="https://via.placeholder.com/800x200?text=Military+Arithmetic" alt="Military Arithmetic">
             <p><strong>Key Tips:</strong> Focus on word problems; identify key numbers and what’s being asked.</p>
             <ul>
                 <li>Distance = Rate × Time</li>
@@ -104,7 +102,7 @@
 
         <section id="math-knowledge">
             <h2>Mathematics Knowledge (MK)</h2>
-            <img src="https://www.pexels.com/photo/military-math-234567/" alt="Military Math">
+            <img src="https://via.placeholder.com/800x200?text=Military+Math" alt="Military Math">
             <h3>Geometry:</h3>
             <ul>
                 <li>Area of a Rectangle = length × width</li>
@@ -129,7 +127,7 @@
 
         <section id="word-knowledge">
             <h2>Word Knowledge (WK)</h2>
-            <img src="https://www.pexels.com/photo/military-vocabulary-345678/" alt="Military Vocabulary">
+            <img src="https://via.placeholder.com/800x200?text=Military+Vocabulary" alt="Military Vocabulary">
             <p><strong>Study Tips:</strong> Learn synonyms and antonyms.</p>
             <p>Common prefixes:</p>
             <ul>
@@ -148,7 +146,7 @@
 
         <section id="test-tips">
             <h2>General Test-Taking Tips</h2>
-            <img src="https://www.pexels.com/photo/military-test-tips-456789/" alt="Military Test Tips">
+            <img src="https://via.placeholder.com/800x200?text=Military+Test+Tips" alt="Military Test Tips">
             <ul>
                 <li>Answer easy questions first, then go back to harder ones.</li>
                 <li>Use the process of elimination.</li>
